@@ -1,0 +1,64 @@
+div .image {
+    position: relative;
+    position: absolute;
+    width: 344px;
+    height: 448px;
+    left: 874px;
+    top: 366px;
+}
+
+div .image img{
+    transition: 300ms;
+}
+
+div .image img:hover {
+    transform: rotate(-6deg);
+}
+
+div h2{
+    position: absolute;
+    width: 163px;
+    height: 45px;
+    left: 156px;
+    top: 385px;
+
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 45px;
+
+    color: #1995AD;
+}
+
+div h1{
+    position: absolute;
+    width: 331px;
+    height: 69px;
+    left: 156px;
+    top: 460px;
+
+    font-family:'Kanit';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 46px;
+    line-height: 69px;
+
+    color: #52908b;
+}
+
+div h3{
+    position: absolute;
+    width: 456px;
+    height: 95px;
+    left: 156px;
+    top: 559px;
+
+    font-family:Roboto;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #1995AD;
+}

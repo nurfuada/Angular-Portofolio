@@ -1,0 +1,29 @@
+nav {
+    padding: 10px;
+    background-color: #52908b;
+}
+
+nav img{
+    padding-left: 20px;
+    width: 120px;
+    height: 120px;
+}
+
+nav ul{
+    padding: 25px;
+    float: right;
+    list-style-type: none;
+}
+
+ul li
+{
+    padding: 10px;
+    display: inline-block;
+}
+
+li a{
+    color: #fff;
+    text-decoration: none;
+    cursor: pointer;
+}
+
